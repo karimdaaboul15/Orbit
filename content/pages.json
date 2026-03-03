@@ -1,0 +1,562 @@
+[
+  {
+    "url": "/",
+    "title": "Orbit Aluminum Industries | B2B Coil Manufacturing",
+    "description": "B2B supplier of aluminum rolling, coil coating, and recycling solutions for Europe and North America. Send RFQs to info@orbitalu.com.",
+    "h1": "Integrated Aluminum & Coil Solutions for Manufacturers",
+    "vp": "Orbit Aluminum Industries supplies rolled and coated coil solutions from Aqaba, Jordan for Europe and North America.",
+    "proof": [
+      "ISO 9001 / 14001 / 45001 certified operations",
+      "Aluminum rolling + aluminum/steel coil coating + recycling loop",
+      "ASTM or EN per customer specification"
+    ],
+    "body": "<p>We support manufacturers with semi-finished products in coil and sheet formats available upon request. Our integrated loop connects recycling, slab casting, rolling, and coating for reliable supply planning.</p>",
+    "type": "home"
+  },
+  {
+    "url": "/capabilities/aluminum-rolling/",
+    "title": "Aluminum Rolling Capabilities | Orbit Aluminum",
+    "description": "Aluminum rolling for 1xxx/3xxx/5xxx alloys, 0.20-2.00 mm thickness, up to 1650 mm width, and coil weight up to 10 tons.",
+    "h1": "Aluminum Rolling Capability",
+    "vp": "Semi-finished rolled aluminum for industrial manufacturing programs.",
+    "proof": [
+      "Alloys 1xxx / 3xxx / 5xxx (others available upon request)",
+      "Thickness 0.20-2.00 mm, max width 1650 mm",
+      "Coil ID 406/508 and coil weight up to 10 tons"
+    ],
+    "type": "cap_rolling"
+  },
+  {
+    "url": "/capabilities/coil-coating/",
+    "title": "Coil Coating Capability | Aluminum and Steel",
+    "description": "Coil coating for aluminum and steel substrates with PE, HDPE, PVDF, PU, PUPA, Epoxy and Acrylic systems.",
+    "h1": "Coil Coating Capability",
+    "vp": "One-side or two-side coating with primer for aluminum and steel coils.",
+    "proof": [
+      "Max coating width 1350 mm and thickness up to 1.60 mm",
+      "Color matching by RAL or custom matching",
+      "MOQ 6 MT per color per size; 3 MT option for part orders"
+    ],
+    "type": "cap_coating"
+  },
+  {
+    "url": "/capabilities/aluminum-recycling/",
+    "title": "Aluminum Recycling Capability | Orbit Aluminum",
+    "description": "Aluminum recycling process including shredding, separation, sorting, and slab output to support resource efficiency and circularity.",
+    "h1": "Aluminum Recycling Capability",
+    "vp": "Recycling operations support resource efficiency and circularity across the supply chain.",
+    "proof": [
+      "Wide scrap acceptance including UBC, extrusion, coil, and painted scrap",
+      "Processing includes shredding, separation, sorting, and cast house furnaces",
+      "Output format: slabs"
+    ],
+    "type": "cap_recycling"
+  },
+  {
+    "url": "/products/rolled-aluminum-coil-sheet/",
+    "title": "Rolled Aluminum Coil & Sheet | Orbit Aluminum",
+    "description": "Rolled aluminum coil and sheet with mill finish or stucco, alloys 1xxx/3xxx/5xxx, and processing services for manufacturing supply.",
+    "h1": "Rolled Aluminum Coil & Sheet",
+    "vp": "Semi-finished rolled products built for industrial forming and fabrication.",
+    "proof": [
+      "Mill finish and stucco options",
+      "Slitting, cut-to-length, embossing, edge trimming, leveling",
+      "Protective film or lubrication available"
+    ],
+    "type": "product_rolling"
+  },
+  {
+    "url": "/products/prepainted-aluminum-coil/",
+    "title": "Prepainted Aluminum Coil | Orbit Aluminum",
+    "description": "Prepainted aluminum coil for roofing, cladding, signage, and shutters with flexible coating systems and custom color matching.",
+    "h1": "Prepainted Aluminum Coil",
+    "vp": "Prepainted aluminum coils for durable visual and functional performance.",
+    "proof": [
+      "PE, HDPE, PVDF, PU, PUPA, Epoxy, Acrylic, Epoxy-PE systems",
+      "Solid, metallic, woodgrain, brushed, matte/gloss, textured finishes",
+      "One-side and two-side coating with primer"
+    ],
+    "type": "product_coating"
+  },
+  {
+    "url": "/products/prepainted-steel-coil/",
+    "title": "Prepainted Steel Coil | Orbit Aluminum",
+    "description": "Prepainted steel coil with one-side and two-side coating, primer systems, and finish options for industrial applications.",
+    "h1": "Prepainted Steel Coil",
+    "vp": "Coated steel coil supply for demanding industrial and building products.",
+    "proof": [
+      "Steel substrate with coating thickness controls",
+      "Primer-supported one-side or two-side coating",
+      "MOQ options aligned to color and size programs"
+    ],
+    "type": "product_steel"
+  },
+  {
+    "url": "/products/stucco-embossed-aluminum/",
+    "title": "Stucco Embossed Aluminum | Orbit Aluminum",
+    "description": "Stucco and embossed aluminum formats for roofing, cladding, and industrial use with consistent rolling and downstream processing.",
+    "h1": "Stucco / Embossed Aluminum",
+    "vp": "Embossed surfaces for applications requiring function and appearance.",
+    "proof": [
+      "Produced within rolling thickness range 0.20-2.00 mm",
+      "Compatible with slitting and cut-to-length",
+      "Coated variants available upon request"
+    ],
+    "type": "product_rolling"
+  },
+  {
+    "url": "/services/slitting-cut-to-length/",
+    "title": "Slitting and Cut-to-Length Services | Orbit",
+    "description": "Precision slitting and cut-to-length support for aluminum and coated coils with edge trimming and leveling options.",
+    "h1": "Slitting & Cut-to-Length Services",
+    "vp": "Converting services that reduce downstream handling and improve line efficiency.",
+    "proof": [
+      "Slitting, edge trimming, and leveling",
+      "Format conversion for coil and sheet",
+      "Specifications aligned to RFQ requirements"
+    ],
+    "type": "service"
+  },
+  {
+    "url": "/quality/",
+    "title": "Quality Overview | Orbit Aluminum Industries",
+    "description": "Quality management across rolling, coating, and recycling with ISO certification, testing, and market-specific ASTM/EN specifications.",
+    "h1": "Quality Overview",
+    "vp": "Quality systems are integrated into every production stage.",
+    "proof": [
+      "ISO 9001, ISO 14001, ISO 45001",
+      "Lab and process testing across mechanical and coating metrics",
+      "ASTM or EN by customer and market requirements"
+    ],
+    "type": "quality"
+  },
+  {
+    "url": "/quality/certifications/",
+    "title": "ISO Certifications | Orbit Aluminum Industries",
+    "description": "Orbit Aluminum Industries certifications include ISO 9001, ISO 14001, and ISO 45001 for quality, environment, and safety systems.",
+    "h1": "Certifications",
+    "vp": "Certified management systems support consistent delivery and governance.",
+    "proof": [
+      "ISO 9001",
+      "ISO 14001",
+      "ISO 45001"
+    ],
+    "type": "quality"
+  },
+  {
+    "url": "/quality/testing-inspection/",
+    "title": "Testing and Inspection | Orbit Aluminum",
+    "description": "Testing includes salt spray, UV, T-bend, impact, adhesion, gloss retention, abrasion, MEK rub, pencil hardness and color checks.",
+    "h1": "Testing & Inspection",
+    "vp": "Testing verifies product behavior before shipment and during qualification.",
+    "proof": [
+      "Coating durability and adhesion tests",
+      "Appearance and color consistency controls",
+      "Mechanical response checks for forming and service"
+    ],
+    "type": "testing"
+  },
+  {
+    "url": "/quality/standards/",
+    "title": "Standards and Compliance | Orbit Aluminum",
+    "description": "Products manufactured to ASTM or EN per customer specification and destination market requirements in Europe and North America.",
+    "h1": "Standards & Compliance",
+    "vp": "Specification management is aligned to customer and market requirements.",
+    "proof": [
+      "ASTM or EN depending on market and customer requirements",
+      "Documentation prepared with RFQ technical package",
+      "Quality review before production release"
+    ],
+    "type": "quality"
+  },
+  {
+    "url": "/quality/warranty-claim-policy/",
+    "title": "Warranty and Claim Policy | Orbit Aluminum",
+    "description": "Warranty guidance and claim policy summary with terms depending on application and environment plus official PDF policy link.",
+    "h1": "Warranty & Claim Policy",
+    "vp": "Warranty terms are conditional and tied to use conditions.",
+    "proof": [
+      "Typical range 5 to 20 years depending on application and environment",
+      "Coastal vs inland exposure affects expectations",
+      "Claim handling follows published policy"
+    ],
+    "type": "warranty"
+  },
+  {
+    "url": "/sustainability/",
+    "title": "Sustainability Overview | Orbit Aluminum",
+    "description": "Sustainability at Orbit Aluminum focuses on recycling integration, process efficiency, and circular material flow for manufacturers.",
+    "h1": "Sustainability Overview",
+    "vp": "Our integrated process supports practical circularity for industrial supply.",
+    "proof": [
+      "Recycling loop connected to rolling and coating",
+      "Supports resource efficiency and circularity",
+      "Recycled content varies by alloy"
+    ],
+    "type": "sustain"
+  },
+  {
+    "url": "/sustainability/recycling-loop/",
+    "title": "Recycling Loop | Orbit Aluminum Industries",
+    "description": "See how scrap processing, slab casting, rolling, and coating connect into a practical recycling loop supporting supply continuity.",
+    "h1": "Recycling Loop",
+    "vp": "Scrap is processed into slabs that feed downstream rolling and coating.",
+    "proof": [
+      "Scrap processing, shredding, separation, sorting",
+      "Cast house furnaces and slab output",
+      "Loop supports manufacturing continuity"
+    ],
+    "type": "sustain"
+  },
+  {
+    "url": "/sustainability/recycled-content-by-alloy/",
+    "title": "Recycled Content by Alloy | Orbit Aluminum",
+    "description": "Recycled content varies by cast alloy. Example: 3105 alloy with PUPA paint can contain 75% recycled material.",
+    "h1": "Recycled Content by Alloy",
+    "vp": "Recycled content is specified by alloy and end-use requirements.",
+    "proof": [
+      "Values vary by cast alloy",
+      "Example: 3105 with PUPA paint can contain 75% recycled material",
+      "Final values confirmed during quotation"
+    ],
+    "type": "sustain"
+  },
+  {
+    "url": "/resources/",
+    "title": "Resources Overview | Orbit Aluminum Industries",
+    "description": "Technical resources including datasheets, packaging guidance, RFQ checklist, and FAQs for faster specification and procurement cycles.",
+    "h1": "Resources",
+    "vp": "Use structured resources to accelerate RFQ clarity and order execution.",
+    "proof": [
+      "Datasheets and brochures",
+      "Packaging and coil handling guidance",
+      "RFQ checklist and FAQs"
+    ],
+    "type": "resource"
+  },
+  {
+    "url": "/resources/datasheets-brochures/",
+    "title": "Datasheets and Brochures | Orbit Aluminum",
+    "description": "Download and request datasheets for rolled and coated products. Additional technical documents are available upon request.",
+    "h1": "Datasheets & Brochures",
+    "vp": "Technical files support specification review and procurement approvals.",
+    "proof": [
+      "Product and process summaries",
+      "Specification request workflow",
+      "Contact route for controlled documents"
+    ],
+    "type": "resource"
+  },
+  {
+    "url": "/resources/packaging-coil-handling/",
+    "title": "Packaging and Coil Handling | Orbit Aluminum",
+    "description": "Packaging and handling guidance for coil delivery, protection, storage, and line preparation for safer receiving and processing.",
+    "h1": "Packaging & Coil Handling",
+    "vp": "Handling guidance helps reduce transit and storage risk.",
+    "proof": [
+      "Packaging requirements can be quoted",
+      "Protective film options available",
+      "Logistics and destination conditions considered"
+    ],
+    "type": "resource"
+  },
+  {
+    "url": "/resources/rfq-checklist/",
+    "title": "RFQ Checklist | Orbit Aluminum Industries",
+    "description": "Use this RFQ checklist and copy-paste template to request pricing quickly for rolled or coated aluminum and steel programs.",
+    "h1": "RFQ Checklist",
+    "vp": "A complete RFQ shortens quote cycles and reduces rework.",
+    "proof": [
+      "Copy/paste email template to info@orbitalu.com",
+      "Field list for materials, coatings, and logistics",
+      "Example RFQ included"
+    ],
+    "type": "rfq"
+  },
+  {
+    "url": "/resources/faqs/",
+    "title": "FAQs | Orbit Aluminum Industries",
+    "description": "Frequently asked questions about rolling, coating, recycling, standards, testing, warranty expectations, logistics and RFQ details.",
+    "h1": "Frequently Asked Questions",
+    "vp": "Quick answers for technical and procurement planning.",
+    "proof": [
+      "Capabilities and product format guidance",
+      "Quality, standards, and testing references",
+      "Logistics and RFQ support"
+    ],
+    "type": "faq"
+  },
+  {
+    "url": "/about/",
+    "title": "About Orbit Aluminum Industries",
+    "description": "Orbit Aluminum Industries serves Europe and North America with integrated aluminum rolling, coil coating, and recycling operations.",
+    "h1": "About Orbit Aluminum Industries",
+    "vp": "Built to supply manufacturers with consistent semi-finished material programs.",
+    "proof": [
+      "Headquarters and plant in Aqaba (ASEZA), Jordan",
+      "Canada office in Mississauga, Ontario",
+      "B2B focus with direct manufacturer collaboration"
+    ],
+    "type": "about"
+  },
+  {
+    "url": "/location/aqaba-jordan/",
+    "title": "Aqaba Location and Logistics | Orbit Aluminum",
+    "description": "Shipping and logistics from Aqaba, Jordan with port and land options, Europe transit 5-13 days and USA transit around 25 days.",
+    "h1": "Location & Logistics",
+    "vp": "Strategic Aqaba origin supports regional and overseas shipping programs.",
+    "proof": [
+      "Origin: Aqaba, Jordan",
+      "Europe transit average 5 to 13 days; USA around 25 days",
+      "Incoterms available upon request, including DAP"
+    ],
+    "type": "location"
+  },
+  {
+    "url": "/contact/",
+    "title": "Contact and RFQ | Orbit Aluminum Industries",
+    "description": "Send your RFQ to info@orbitalu.com or use the RFQ form. Includes Jordan and Canada addresses, phone and fax details.",
+    "h1": "Contact & RFQ",
+    "vp": "Email-first RFQ workflow for faster technical quoting.",
+    "proof": [
+      "Primary conversion email: info@orbitalu.com",
+      "Jordan plant and Canada office listed",
+      "Copy-ready RFQ checklist embedded"
+    ],
+    "type": "contact"
+  },
+  {
+    "url": "/applications/rolling-shutters/",
+    "title": "Rolling Shutters Coil Solutions | Orbit Aluminum",
+    "description": "Rolling Shutters supply solutions with mill finish rolled products and prepainted aluminum/steel coil options for industrial manufacturing.",
+    "h1": "Rolling Shutters",
+    "vp": "Material programs for rolling shutters including rolled and coated options.",
+    "proof": [
+      "Mill finish / rolled products available",
+      "Prepainted aluminum and steel options available",
+      "Substrate selection available upon request"
+    ],
+    "type": "application"
+  },
+  {
+    "url": "/applications/roofing/",
+    "title": "Roofing Coil Solutions | Orbit Aluminum",
+    "description": "Roofing supply solutions with mill finish rolled products and prepainted aluminum/steel coil options for industrial manufacturing.",
+    "h1": "Roofing",
+    "vp": "Material programs for roofing including rolled and coated options.",
+    "proof": [
+      "Mill finish / rolled products available",
+      "Prepainted aluminum and steel options available",
+      "Substrate selection available upon request"
+    ],
+    "type": "application"
+  },
+  {
+    "url": "/applications/signage/",
+    "title": "Signage Coil Solutions | Orbit Aluminum",
+    "description": "Signage supply solutions with mill finish rolled products and prepainted aluminum/steel coil options for industrial manufacturing.",
+    "h1": "Signage",
+    "vp": "Material programs for signage including rolled and coated options.",
+    "proof": [
+      "Mill finish / rolled products available",
+      "Prepainted aluminum and steel options available",
+      "Substrate selection available upon request"
+    ],
+    "type": "application"
+  },
+  {
+    "url": "/applications/gutters-downspouts/",
+    "title": "Gutters & Downspouts Coil Solutions | Orbit Aluminum",
+    "description": "Gutters & Downspouts supply solutions with mill finish rolled products and prepainted aluminum/steel coil options for industrial manufacturing.",
+    "h1": "Gutters & Downspouts",
+    "vp": "Material programs for gutters & downspouts including rolled and coated options.",
+    "proof": [
+      "Mill finish / rolled products available",
+      "Prepainted aluminum and steel options available",
+      "Substrate selection available upon request"
+    ],
+    "type": "application"
+  },
+  {
+    "url": "/applications/license-plates/",
+    "title": "License Plates Coil Solutions | Orbit Aluminum",
+    "description": "License Plates supply solutions with mill finish rolled products and prepainted aluminum/steel coil options for industrial manufacturing.",
+    "h1": "License Plates",
+    "vp": "Material programs for license plates including rolled and coated options.",
+    "proof": [
+      "Mill finish / rolled products available",
+      "Prepainted aluminum and steel options available",
+      "Substrate selection available upon request"
+    ],
+    "type": "application"
+  },
+  {
+    "url": "/applications/truck-trailer-panels/",
+    "title": "Truck & Trailer Panels Coil Solutions | Orbit Aluminum",
+    "description": "Truck & Trailer Panels supply solutions with mill finish rolled products and prepainted aluminum/steel coil options for industrial manufacturing.",
+    "h1": "Truck & Trailer Panels",
+    "vp": "Material programs for truck & trailer panels including rolled and coated options.",
+    "proof": [
+      "Mill finish / rolled products available",
+      "Prepainted aluminum and steel options available",
+      "Substrate selection available upon request"
+    ],
+    "type": "application"
+  },
+  {
+    "url": "/applications/aluminum-composite-panels-acp/",
+    "title": "ACP Coil Solutions | Orbit Aluminum",
+    "description": "ACP supply solutions with mill finish rolled products and prepainted aluminum/steel coil options for industrial manufacturing.",
+    "h1": "ACP",
+    "vp": "Material programs for acp including rolled and coated options.",
+    "proof": [
+      "Mill finish / rolled products available",
+      "Prepainted aluminum and steel options available",
+      "Substrate selection available upon request"
+    ],
+    "type": "application"
+  },
+  {
+    "url": "/applications/cladding/",
+    "title": "Cladding Coil Solutions | Orbit Aluminum",
+    "description": "Cladding supply solutions with mill finish rolled products and prepainted aluminum/steel coil options for industrial manufacturing.",
+    "h1": "Cladding",
+    "vp": "Material programs for cladding including rolled and coated options.",
+    "proof": [
+      "Mill finish / rolled products available",
+      "Prepainted aluminum and steel options available",
+      "Substrate selection available upon request"
+    ],
+    "type": "application"
+  },
+  {
+    "url": "/coatings/pvdf/",
+    "title": "PVDF Coating System | Orbit Aluminum",
+    "description": "PVDF coating system information, application links, testing considerations, and RFQ guidance for coated coil procurement.",
+    "h1": "PVDF Coating System",
+    "vp": "PVDF system options for performance-driven coated coil programs.",
+    "proof": [
+      "What it is and where it is used",
+      "Performance considerations tied to testing",
+      "RFQ support for specification confirmation"
+    ],
+    "type": "coating"
+  },
+  {
+    "url": "/coatings/pe-hdpe/",
+    "title": "PE & HDPE Coating System | Orbit Aluminum",
+    "description": "PE & HDPE coating system information, application links, testing considerations, and RFQ guidance for coated coil procurement.",
+    "h1": "PE & HDPE Coating System",
+    "vp": "PE & HDPE system options for performance-driven coated coil programs.",
+    "proof": [
+      "What it is and where it is used",
+      "Performance considerations tied to testing",
+      "RFQ support for specification confirmation"
+    ],
+    "type": "coating"
+  },
+  {
+    "url": "/coatings/pu-pupa/",
+    "title": "PU & PUPA Coating System | Orbit Aluminum",
+    "description": "PU & PUPA coating system information, application links, testing considerations, and RFQ guidance for coated coil procurement.",
+    "h1": "PU & PUPA Coating System",
+    "vp": "PU & PUPA system options for performance-driven coated coil programs.",
+    "proof": [
+      "What it is and where it is used",
+      "Performance considerations tied to testing",
+      "RFQ support for specification confirmation"
+    ],
+    "type": "coating"
+  },
+  {
+    "url": "/coatings/epoxy-acrylic/",
+    "title": "Epoxy & Acrylic Coating System | Orbit Aluminum",
+    "description": "Epoxy & Acrylic coating system information, application links, testing considerations, and RFQ guidance for coated coil procurement.",
+    "h1": "Epoxy & Acrylic Coating System",
+    "vp": "Epoxy & Acrylic system options for performance-driven coated coil programs.",
+    "proof": [
+      "What it is and where it is used",
+      "Performance considerations tied to testing",
+      "RFQ support for specification confirmation"
+    ],
+    "type": "coating"
+  },
+  {
+    "url": "/finishes/woodgrain/",
+    "title": "Woodgrain Finish | Orbit Aluminum",
+    "description": "Woodgrain finish overview with use cases, performance considerations, and links to application and testing references.",
+    "h1": "Woodgrain Finish",
+    "vp": "Woodgrain options for functional and visual requirements.",
+    "proof": [
+      "Use-case guidance by application",
+      "Testing-linked performance review",
+      "RFQ pathway for color and finish confirmation"
+    ],
+    "type": "finish"
+  },
+  {
+    "url": "/finishes/metallic/",
+    "title": "Metallic Finish | Orbit Aluminum",
+    "description": "Metallic finish overview with use cases, performance considerations, and links to application and testing references.",
+    "h1": "Metallic Finish",
+    "vp": "Metallic options for functional and visual requirements.",
+    "proof": [
+      "Use-case guidance by application",
+      "Testing-linked performance review",
+      "RFQ pathway for color and finish confirmation"
+    ],
+    "type": "finish"
+  },
+  {
+    "url": "/finishes/matte-gloss-textured/",
+    "title": "Matte / Gloss / Textured Finish | Orbit Aluminum",
+    "description": "Matte / Gloss / Textured finish overview with use cases, performance considerations, and links to application and testing references.",
+    "h1": "Matte / Gloss / Textured Finish",
+    "vp": "Matte / Gloss / Textured options for functional and visual requirements.",
+    "proof": [
+      "Use-case guidance by application",
+      "Testing-linked performance review",
+      "RFQ pathway for color and finish confirmation"
+    ],
+    "type": "finish"
+  },
+  {
+    "url": "/finishes/anti-graffiti/",
+    "title": "Anti-Graffiti Finish | Orbit Aluminum",
+    "description": "Anti-Graffiti finish overview with use cases, performance considerations, and links to application and testing references.",
+    "h1": "Anti-Graffiti Finish",
+    "vp": "Anti-Graffiti options for functional and visual requirements.",
+    "proof": [
+      "Use-case guidance by application",
+      "Testing-linked performance review",
+      "RFQ pathway for color and finish confirmation"
+    ],
+    "type": "finish"
+  },
+  {
+    "url": "/finishes/anti-bacteria/",
+    "title": "Anti-Bacteria Finish | Orbit Aluminum",
+    "description": "Anti-Bacteria finish overview with use cases, performance considerations, and links to application and testing references.",
+    "h1": "Anti-Bacteria Finish",
+    "vp": "Anti-Bacteria options for functional and visual requirements.",
+    "proof": [
+      "Use-case guidance by application",
+      "Testing-linked performance review",
+      "RFQ pathway for color and finish confirmation"
+    ],
+    "type": "finish"
+  },
+  {
+    "url": "/finishes/brushed-design/",
+    "title": "Brushed Design Finish | Orbit Aluminum",
+    "description": "Brushed Design finish overview with use cases, performance considerations, and links to application and testing references.",
+    "h1": "Brushed Design Finish",
+    "vp": "Brushed Design options for functional and visual requirements.",
+    "proof": [
+      "Use-case guidance by application",
+      "Testing-linked performance review",
+      "RFQ pathway for color and finish confirmation"
+    ],
+    "type": "finish"
+  }
+]
